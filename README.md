@@ -3,7 +3,7 @@ A basic application for the calculation of the heat transfer inside a solid mate
 
 This is an application designed to solve the equation of conductivity in a solid material.
 
-[Space for equation]
+[Space for equation1]
 
 Where:
 • K [W/m/K] is the conductivity constant (this is defined for each material in the literature)
